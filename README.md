@@ -18,7 +18,7 @@ This repository implements YOLO (You Only Look Once) object detection algorithm 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/anjan-budige/yolo-object-detection.git
+    git clone https://github.com/anjanbudige/yolo-object-detection.git
     ```
 
 2. **Install dependencies:**
